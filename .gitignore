@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+.vscode/
+*_avg_balance.csv
+*_tape.csv
+*.zip
+*.docx
+*.pdf
